@@ -5,7 +5,7 @@ Se sube la tarea de la expocision sobre Factoraje financiero
 Este es el archivo HTML index
 [Link de el archivo index](https://broref.github.io/Expocision_Factor_Financiero/)
 
-Presentacion HTML de Quartp
+Presentacion HTML de Quarto
 [Link de la presentacion](https://broref.github.io/Expocision_Factor_Financiero/Presentacion_Factoraje_Financiero.html)
 
 Lugar donde se encuentran los arachivos
