@@ -6,7 +6,7 @@ Este es el archivo HTML index
 [Link de el archivo index](https://broref.github.io/Expocision_Factor_Financiero/)
 
 Presentacion HTML de Quarto
-[Link de la presentacion](https://broref.github.io/Expocision_Factor_Financiero/Presentacion_Factoraje_Financiero.html)
+[Link de la presentacion](https://broref.github.io/Expocision_Factor_Financiero/PRESENTACION_FACTORAJE_FINANCIERO.html)
 
 Lugar donde se encuentran los arachivos
 [Link de posit cloud](https://posit.cloud/content/8573491)
